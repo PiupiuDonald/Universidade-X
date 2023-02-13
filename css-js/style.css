@@ -200,7 +200,7 @@ footer img{
     justify-content: space-between;
     background-color: var(--azul-claro);
 }
-@media (max-width: 550px){
+@media (max-width: 425px){
     /* Menu */
     .logo a img{
         width: 15%;
